@@ -36,7 +36,7 @@ As the Director of Multimedia for Entravision Communications, Ray managed a netw
 
 [![Anurag's's github stats](https://github-readme-stats.vercel.app/api?username=codeproline&show_icons=true&count_private=true&theme=calm&include_all_commits=true)](https://github.com/codeproline/codeproline)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeproline&show_icons=true&count_private=true&langs_count=10&layout=compact&theme=calm&include_all_commits=true)](https://github.com/codeproline/codeproline)
+
 
 
 ## My Content
