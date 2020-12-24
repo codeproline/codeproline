@@ -38,12 +38,6 @@ As the Director of Multimedia for Entravision Communications, Ray managed a netw
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeproline&show_icons=true&count_private=true&langs_count=10&layout=compact&theme=calm&include_all_commits=true)](https://github.com/codeproline/codeproline)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codeproline&repo=angular-hero&show_owner=true&theme=calm)](https://github.com/codeproline/angular-hero)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codeproline&repo=electron-todo&show_owner=true&theme=calm)](https://github.com/codeproline/electron-todo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codeproline&repo=nano-node&show_owner=true&theme=calm)](https://github.com/codeproline/nano-node)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codeproline&repo=graphic-interview&show_owner=true&theme=calm)](https://github.com/codeproline/graphic-interview)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codeproline&repo=pandas-bigdata&show_owner=true&theme=calm)](https://github.com/codeproline/pandas-bigdata)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codeproline&repo=shopify-bulk-import&show_owner=true&theme=calm)](https://github.com/codeproline/shopify-bulk-import)
 
 ## My Content
 - [Twitter](https://twitter.com/jeffleu)
@@ -51,4 +45,4 @@ As the Director of Multimedia for Entravision Communications, Ray managed a netw
 - [Facebook](https://www.facebook.com/jeffleu)
 - [CodeRank](https://profile.codersrank.io/user/codeproline/)
 - [GitHub](https://github.com/codeproline)
-- [Email](jeff.leu.dev@gmail.com)
+- [Email](bluesky410219@gmail.com)
