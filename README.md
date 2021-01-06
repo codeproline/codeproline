@@ -1,46 +1,32 @@
+### Hi there, I'm Jeff 👋 ✨
+
+I'm a Senior Full Stack Developer and from Hong Kong. 👨‍💻
+
+When problems surface, I methodically turn them into opportunities.
+
+My stewardship keeps me intensely rooted from ideation to code with the intensity for focusing on methodologies that maximize outputs and minimizes inputs. By setting into motion, a “mentoring is implied” culture in a self-governing environment influenced by the strict practice of agile principles, a center of gravity begins to form around the requirements.
+
+The anatomy of my approach, the composition of strategic units that delivers consistent results with discipline & maturity is the foundation for attracting exceptionally smart people, that you can remarkably trust. What this will achieve will blow you away!
+
+Today’s proliferation of technology necessitates a paradigm shift in talent acquisition where being multi-disciplined is a pre-requisite, and having a healthy disregard for the status quo is now a stipulation.
+
+Fully embracing my autodidactic nature has facilitated the rapid ability to educate myself to advanced levels beyond the attainability of the traditional outlets in today’s industry. Because of this, I excel naturally in multi-disciplined environments, roles & capacities.
+
+- ⚡ I roll deep in JS frameworks(React, Angular, Vue, etc), AWS services, Backend development(Laravel, Django, Node)
+- 💬 Ask me about how to create resilient and scalable architectures 😄
+- 📫 How to reach me: by [email](mailto:bluesky410219@gmail.com)
+
+---
+
+One of my previous favourite project, a camera surveillance platform that stores video footage and ingests them through a machine learning pipeline to perform video analytics, motion detection, and [more](https://streaming-platform.com)!
 
 
-<!-- <a href="https://www.youtube.com/channel/jeff_leu_dev"><img src="./assets/img/logo/youtube-logo.png" width="40" /></a> -->
-<a style="margin:10px;" href="https://github.com/codeproline" target="_blank"><img src="./assets/img/logo/github-logo.png" width="40" /></a>
-<a style="margin:10px;" href="https://www.facebook.com/jeffleu" target="_blank"><img src="./assets/img/logo/facebook.png" width="40" /></a>
-<a style="margin:10px;" href="mailto:jeff.leu.dev@gmail.com" target="_blank"><img src="./assets/img/logo/google-plus.png" width="40" /></a>
-<a style="margin:10px;" href="https://twitter.com/jeffleu" target="_blank"><img src="./assets/img/logo/twitter.png" width="40" /></a>
-<a style="margin:10px;" href="https://www.instagram.com/jeff.leu.dev" target="_blank"><img src="./assets/img/logo/instagram.png" width="40" /></a>
+![screen](https://streamnvr.com/wp-content/uploads/sites/5/2018/12/scrubbed-multiple-devices.png)
 
-# OVERVIEW
+This platform has been designed using fault tolerant microservices backed by kubernetes.
 
-Senior full-stack developer with over 9 years of experience building high performing presentations, layers, building reusable components, and performance optimization with **JavaScript**, **Typescript**, **HTML**, **CSS**, back-end experience with **Node**, **PHP**, **Python**. Specialized in building 20+ usable, useful, well-constructed websites and applications using **React**, **Angular**, and **Vue**. About 2 projects, implemented 10k+ users with well-designed user interface components and the overall applications are robust, easy to maintain, and resolved 1k+ errors in the presented app.
+---
 
-# WHAT I DO
+![views](https://enbxcd98jgzi9ya.m.pipedream.net/)
 
-Creative web developer dedicated to building and optimizing the performance of high-impact websites for nationwide and global companies. Leverage technical, analytical, and problem-solving skills to create dynamic, high-speed websites, apps, and platforms fueling competitive advantage and revenue growth.
-
-# ACHIEVEMENTS
-
-- Excellent **Frontend** Development (HTML5, CSS3, Less, Sass, TailwindCss, Jade, Pug, Twig)
-- **JAM** Stack Static Site Development (Gatsby, Contentful, Prismic)
-- **MERN/MEAN/MEVN** Stack Development (Express, Nest, Koa, React, Vue, Angular, Next, Nuxt, MongoDB)
-- **SAAS** Platform Development (GCP, Firebase, Firestore, App Engine, AWS EC2, S3, IAM, Lambda, DynomoDB)
-- **Payment** Integration (Paypal, Stripe)
-- **Mobile** App Development (iOS/Android) development (React Native, Flutter, Ionic, Cocopod, Swift)
-- **DB** Design, Delivery System Development (MySQL, PostgreSQL, MongoDB)
-- **Backend** Structure Development (Laravel, Codeigniter, Symfony, CakePHP, Java Maven, Spring, ASP.NET, .NET Core)
-- **Ecommerce** CMS Development (WordPress, BuddyPress, Shopify, CraftCMS)
-- **Visual Programming** (Bubble.io, WebFlow)
-- **OOP** Functional Programming (C, C++, Python, Django, Flask, TensorFlow, Chatbot)
-
-
-As the Director of Multimedia for Entravision Communications, Ray managed a network of radio and TV station websites on the East Coast. He designed large newspaper sites and created interactive projects/games for the Tribune network of newspapers.
-
-[![Anurag's's github stats](https://github-readme-stats.vercel.app/api?username=codeproline&show_icons=true&count_private=true&theme=calm&include_all_commits=true)](https://github.com/codeproline/codeproline)
-
-
-
-
-## My Content
-- [Twitter](https://twitter.com/jeffleu)
-- [Instagram](https://www.instagram.com/jeff.leu.dev)
-- [Facebook](https://www.facebook.com/jeffleu)
-- [CodeRank](https://profile.codersrank.io/user/codeproline/)
-- [GitHub](https://github.com/codeproline)
-- [Email](bluesky410219@gmail.com)
+![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=mateothegreat&count_private=true&show_icons=true&custom_title=stats%20yo&theme=radical)
