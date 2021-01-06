@@ -1,4 +1,3 @@
-<img align='center' style="width: 300px; margin: 0 auto" src="./assets/img/bg/github-bg2.png" />
 
 
 <!-- <a href="https://www.youtube.com/channel/jeff_leu_dev"><img src="./assets/img/logo/youtube-logo.png" width="40" /></a> -->
