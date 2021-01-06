@@ -1,6 +1,5 @@
 <img align='center' style="width: 300px; margin: 0 auto" src="./assets/img/bg/github-bg2.png" />
 
-<h1>Hi Traveller, I am <a href="https://codeproline.com/">jeff leu</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <!-- <a href="https://www.youtube.com/channel/jeff_leu_dev"><img src="./assets/img/logo/youtube-logo.png" width="40" /></a> -->
 <a style="margin:10px;" href="https://github.com/codeproline" target="_blank"><img src="./assets/img/logo/github-logo.png" width="40" /></a>
