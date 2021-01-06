@@ -18,6 +18,19 @@ Fully embracing my autodidactic nature has facilitated the rapid ability to educ
 
 ---
 
+## ACHIEVEMENTS
+- Excellent Frontend Development (HTML5, CSS3, Less, Sass, TailwindCss, Jade, Pug, Twig)
+- JAM Stack Static Site Development (Gatsby, Contentful, Prismic)
+- MERN/MEAN/MEVN Stack Development (Express, Nest, Koa, React, Vue, Angular, Next, Nuxt, MongoDB)
+- SAAS Platform Development (GCP, Firebase, Firestore, App Engine, AWS EC2, S3, IAM, Lambda, DynomoDB)
+- Payment Integration (Paypal, Stripe)
+- Mobile App Development (iOS/Android) development (React Native, Flutter, Ionic, Cocopod, Swift)
+- DB Design, Delivery System Development (MySQL, PostgreSQL, MongoDB)
+- Backend Structure Development (Laravel, Codeigniter, Symfony, CakePHP, Java Maven, Spring, ASP.NET, .NET Core)
+- Ecommerce CMS Development (WordPress, BuddyPress, Shopify, CraftCMS)
+- Visual Programming (Bubble.io, WebFlow)
+- OOP Functional Programming (C, C++, Python, Django, Flask, TensorFlow, Chatbot)
+
 One of my previous favourite project, a camera surveillance platform that stores video footage and ingests them through a machine learning pipeline to perform video analytics, motion detection, and [more](https://streaming-platform.com)!
 
 
